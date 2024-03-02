@@ -24,14 +24,14 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
          
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/aril_02' //instagram
-global.sfb = 'https://www.facebook.com/Kratos'// facebook
+global.sig = '' //instagram
+global.sfb = ''// facebook
 global.sgh = 'https://github.com/Aril-MD' //github
-global.sgc = 'https://chat.whatsapp.com/I4ZMSsyNDZIAfnwktJ71zX' //group whatsapp
-global.saluran = 'https://whatsapp.com/channel/0029VaJMOH7CHDyls9qnPm25' //saluran whatsapp
-global.syt = 'https://www.youtube.com/@aprilofc' //youtube
-global.swa = 'https://wa.me/6282220427314' //whatsapp
-global.tele = 'https://t.me/ZykoBotz-MD' //telegram
+global.sgc = '' //group whatsapp
+global.saluran = '' //saluran whatsapp
+global.syt = '' //youtube
+global.swa = 'https://wa.me/254740628296' //whatsapp
+global.tele = '' //telegram
 global.sdc = 'https://discord.com/Zyko' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
@@ -45,18 +45,18 @@ global.sid = 'https://s.id/ReyzShop' //s.id
 global.psaweria = 'https://saweria.com/ArilXd' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6282220427314' //whatsapp
-global.nomorbot = '6282220250401' //nomor Bot
-global.nomorown = '6282220427314' //nomor Owner
-global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ' //nama Owner
+global.nomorwa = '254740628296 //whatsapp
+global.nomorbot = '254740628296' //nomor Bot
+global.nomorown = '254628296' //nomor Owner
+global.namebot = ''-'_꩜ 𝘱𝘪𝘬𝘢𝘤𝘩𝘶 𝘣𝘰𝘵 ꩜_'-'' //nama Bot
+global.nameown = ''-'_꩜ 𝘱𝘪𝘬𝘢𝘤𝘩𝘶  ꩜_'-' ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282220427314', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
+  ['254740628296', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
-global.prems = [] //prem bukan disini
+global.prems = [254743817273,254734588303] //prem bukan disini
 
 /*============== CPANEL ==============*/
 global.domain = 'https://xxxxx' //domain
